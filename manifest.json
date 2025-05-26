@@ -1,13 +1,12 @@
 {
-    "name": "comment-analyzer-ai",
-    "version": "0.1",
+    "name": "Comment Analyzer AI",
+    "version": "0.0.1",
     "manifest_version": 3,
 
-    "description": "Analyzes comments on websites",
+    "description": "AI-powered extension that extracts all comments from a website and gives you the analysis you actually want.\nFor example: highlights of negative feedback, average product rating, and more.",
 
     "action": {
-        "default_popup": "popup/default_popup.html",
-        "default_icon": "images/extension_icon_128x128.png"
+        "default_popup": "popup/default_popup.html"
     },
     "icons": {
         "16": "images/extension_icon_16x16.png",
